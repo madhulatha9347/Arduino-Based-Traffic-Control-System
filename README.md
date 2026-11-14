@@ -39,3 +39,6 @@ Tinkercad Circuits
 ## Project Files
 - Arduino source code
 - Circuit diagram
+## Circuit Diagram
+
+![Arduino Circuit Diagram](Arduino%20diagram.jpg)
